@@ -34,7 +34,6 @@
         },
         {
             "rel": "root",
-            "href": "https://raw.githubusercontent.com/Indiphile/stac_catalog_browse_test/master/catalog.json"
         }
     ]
 }
