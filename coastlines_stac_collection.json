@@ -29,7 +29,7 @@
     },
     "links": [
         {
-            "rel": "items",
+            "rel": "item",
             "href": "https://raw.githubusercontent.com/Indiphile/vector-stac/test2/coastlines_stac_item.json"
         },
         {
