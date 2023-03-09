@@ -34,6 +34,7 @@
         },
         {
             "rel": "root",
+            "href":"https://raw.githubusercontent.com/Indiphile/vector-stac/test2/catalog.json"
         }
     ]
 }
